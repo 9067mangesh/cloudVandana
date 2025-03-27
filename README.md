@@ -79,7 +79,7 @@ The `AnagramCheck.java` file contains a Java program that:
     * The program will execute and output whether the test strings within the main method are anagrams. You can modify the strings within the main method of the java file to test other strings.
 
 ## Output
-![Alt text](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/Anagram-Check/Output_for_Angram.png)
+![Alt text](https://github.com/9067mangesh/cloudVandana/blob/main/AnagramCheck/Output_for_Angram.png)
 
 
 
@@ -131,7 +131,7 @@ The **Employee Management System** is a simple Java-based application that demon
 
 ##  Output
 
-![Alt text](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/src/EmpManegement/Output.png)
+![Alt text](https://github.com/9067mangesh/cloudVandana/blob/main/EmployeeMangement/Output.png)
 
 
 # 4. Simple To-Do List (JavaScript, DOM)
@@ -156,7 +156,7 @@ The application allows users to add tasks to a list and remove them as needed. I
     * Click the "Remove" button next to a task to delete it from the list.
 
 ## Output
-![Alt text](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/To-Do_list/Output.png)
+![Alt text](https://github.com/9067mangesh/cloudVandana/blob/main/todo-list/Output.png)
 
 
 
