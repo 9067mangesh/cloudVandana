@@ -46,7 +46,7 @@ This project demonstrates a simple and responsive profile card implemented using
 
 ## Output!  
 
-![Alt text](https://github.com/VishalSonawane2001/Assignment-CloudVandana-/blob/main/Profile%20Card/Profile-card.png)
+![Alt text](https://github.com/9067mangesh/cloudVandana/blob/main/ProfileCard/output.png)
 
 
 
